@@ -4,6 +4,7 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class UserBO {
-	public void getUser() {
+	public void getUser(Integer userNo) {
+		
 	}
 }
