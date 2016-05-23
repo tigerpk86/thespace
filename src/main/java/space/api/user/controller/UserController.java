@@ -8,6 +8,7 @@ public class UserController {
 	
 	@RequestMapping("user/test")
 	public String hello() {
+		//aasdf
 		return "test";
 	}
 
