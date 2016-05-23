@@ -7,4 +7,8 @@ public class UserBO {
 	public void getUser(Integer userNo) {
 		
 	}
+	
+	public void getUserByFacebook(String facebookId) {
+
+	}
 }
