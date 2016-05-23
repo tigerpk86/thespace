@@ -4,6 +4,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public class UserDAO {
-	public void selectUser() {
+	public void selectUser(Integer userNo) {
 	}
 }
