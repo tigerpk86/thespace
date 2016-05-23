@@ -9,6 +9,5 @@ public class UserBO {
 	}
 	
 	public void getUserByFacebook(String facebookId) {
-		//###
 	}
 }
