@@ -5,5 +5,6 @@ public class User {
 	Integer userNo;
 	String name;
 	String phoneNumber;
+	String facebookId;
 	
 }
