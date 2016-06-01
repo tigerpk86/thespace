@@ -9,4 +9,7 @@ public class SpaceController {
 	public void getSpace() {
 		////hello asdf 
 	}
+	public void aa() {
+//		123123
+	}
 }
